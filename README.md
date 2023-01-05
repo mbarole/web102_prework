@@ -29,7 +29,9 @@ Here's a walkthrough of implemented features:
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
+
 LICEcap - https://www.cockos.com/licecap/
+
 Giphy - https://media0.giphy.com/media/Bjdv6oTZxXSSyv1PnO/giphy.gif
 
 ## Notes
